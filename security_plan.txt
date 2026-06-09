@@ -1,0 +1,5 @@
+Security Goals:
+- Encrypted passwords
+- Admin-only pages
+- Session management
+- Input validation

@@ -1,0 +1,7 @@
+Planned API:
+POST /register
+POST /login
+GET /posts
+POST /posts
+DELETE /posts/:id
+POST /comments

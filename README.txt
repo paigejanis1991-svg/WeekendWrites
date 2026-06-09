@@ -1,1 +1,1 @@
-Milestone 4 Community Features: comments, user profile, newsletter placeholders.
+Milestone 5 prepares WeekendWrites for a real backend and database.
