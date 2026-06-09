@@ -1,0 +1,8 @@
+User Model
+
+id
+username
+email
+password_hash
+role
+created_at

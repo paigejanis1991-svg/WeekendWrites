@@ -1,0 +1,8 @@
+Administrator Permissions
+
+- Create posts
+- Edit posts
+- Delete posts
+- Moderate comments
+- Review reports
+- Manage users

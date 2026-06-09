@@ -1,0 +1,11 @@
+// Planned Authentication Flow
+
+POST /api/register
+POST /api/login
+POST /api/logout
+
+Roles:
+- Reader
+- Author
+- Moderator
+- Administrator
