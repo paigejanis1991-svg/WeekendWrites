@@ -1,1 +1,1 @@
-Upload these files to your repository. Next milestone connects a database.
+Milestone 4 Community Features: comments, user profile, newsletter placeholders.
