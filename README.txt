@@ -1,1 +1,1 @@
-Upload these files.
+Upload these files to your repository. Next milestone connects a database.
