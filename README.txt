@@ -1,1 +1,1 @@
-Upload these files to your GitHub repository.
+Upload these files.
